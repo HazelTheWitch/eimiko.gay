@@ -7,7 +7,7 @@
 
 <div class="flex flex-col justify-center items-center">
     <Header />
-    <main class="container">
+    <main class="container flex flex-col items-center">
         <slot />
     </main>
     <Footer />
