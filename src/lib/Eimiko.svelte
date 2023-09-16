@@ -1,1 +1,0 @@
-<span class="text-ei-400 bg-miko-500 rounded-l-xl px-1">ei</span><span class="text-miko-500 bg-ei-400 rounded-r-xl px-1">miko</span>
