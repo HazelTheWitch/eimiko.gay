@@ -1,5 +1,4 @@
 <script lang="ts">
-	import Eimiko from "$lib/Eimiko.svelte";
 	import Footer from "$lib/Footer.svelte";
 	import Header from "$lib/Header.svelte";
 
