@@ -3,7 +3,6 @@
     <a class="m-4" href="/about">about</a>
     <a class="m-4" href="https://github.com/HazelTheWitch/eimiko.gay" target="_blank" rel="noreferrer noopener">source</a>
     <a class="m-4" href="https://ko-fi.com/hazelthewitch" target="_blank" rel="noreferrer noopener">support me</a>
-    <a class="m-4" href="https://twitter.com/liabiaisfree" target="_blank" rel="noreferrer noopener">twitter</a>
 </div>
 
 <style>
