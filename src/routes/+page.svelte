@@ -17,5 +17,11 @@
                 twitter lesbians
             </Page>
         </li>
+        <li>
+            <Page>
+                <a slot="title" href="/about">why?</a>
+                :3 🤤 pretty ladies
+            </Page>
+        </li>
     </ol>
 </div>
