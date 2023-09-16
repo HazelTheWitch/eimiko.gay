@@ -29,6 +29,7 @@
             <li><Handle handle="ryuichikung" /></li>
             <li><Handle handle="isayoun" /></li>
             <li><Handle handle="Beiyi_" /></li>
+            <li><Handle handle="zhorec_" /></li>
         </ul>
         <p>if you are on this list and you dont wanna be (or you want to be on this list and you arent) <a class="underline" href="https://github.com/HazelTheWitch/eimiko.gay/issues/new?assignees=HazelTheWitch&labels=&projects=&template=handle-add-remove-request.md&title=%5BAdd%2FRemove%5D" target="_blank" rel="noreferrer noopener">let me know on github</a></p>
     </div>
