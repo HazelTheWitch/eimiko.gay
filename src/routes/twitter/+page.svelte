@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Handle from "$lib/Handle.svelte";
+	import Hashtag from "$lib/Hashtag.svelte";
 	import Link from "$lib/Link.svelte";
 </script>
 
@@ -8,11 +9,11 @@
     <div class="self-start m-8">
         <h2 class="text-2xl">hashtags</h2>
         <ul class="list-disc list-inside ml-4">
-            <li><Link prefix="#" href="https://twitter.com/search?q=%23eimiko">eimiko</Link> - general ship stuff</li>
-            <li><Link prefix="#" href="https://twitter.com/search?q=%23eimikoweek">eimikoweek</Link> - eimiko week 2022</li>
-            <li><Link prefix="#" href="https://twitter.com/search?q=%23eimikoweek2023">eimikoweek2023</Link> - eimiko week 2023</li>
-            <li><Link prefix="#" href="https://twitter.com/search?q=%23yaemiko">yaemiko</Link> - yae miko only</li>
-            <li><Link prefix="#" href="https://twitter.com/search?q=%23raidenshogun">raidenshogun</Link> - ei only</li>
+            <li><Hashtag hashtag="eimiko">general eimiko stuff</Hashtag></li>
+            <li><Hashtag hashtag="eimikoweek">eimiko week 2022</Hashtag></li>
+            <li><Hashtag hashtag="eimikoweek2023">eimiko week 2023</Hashtag></li>
+            <li><Hashtag hashtag="yaemiko">yae miko only</Hashtag></li>
+            <li><Hashtag hashtag="raidenshogun">ei only</Hashtag></li>
         </ul>
 
         <h2 class="text-2xl">artists <span class="text-sm">not exclusively eimiko</span></h2>
