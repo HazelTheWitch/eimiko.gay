@@ -19,7 +19,7 @@
 
         <h2 class="text-2xl">artists <span class="text-sm">not exclusively eimiko</span></h2>
         <p class="text-sm">holy moly art !?</p>
-        <ul class="list-disc list-inside ml-4 grid grid-cols-1 md:grid-cols-2">
+        <ul class="list-disc list-inside ml-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
             <li><Handle handle="Cloud_Faramore" /></li>
             <li><Handle handle="OnkiOnku" /></li>
             <li><Handle handle="arlelsa" /></li>
