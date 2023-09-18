@@ -17,7 +17,7 @@
 
 <div class="grid grid-cols-3 grid-rows-[0fr,1fr,0fr]">
     <Header />
-    <main class="container flex flex-col items-center col-start-2">
+    <main class="container flex flex-col items-center md:col-span-1 md:col-start-2 col-span-3">
         <slot />
     </main>
     <Footer />
