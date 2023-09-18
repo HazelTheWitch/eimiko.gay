@@ -15,9 +15,9 @@
     <meta property="og:description" content="holy fucking shit i love women" />
 </svelte:head>
 
-<div class="flex flex-col justify-center items-center">
+<div class="grid grid-cols-3 grid-rows-[0fr,1fr,0fr]">
     <Header />
-    <main class="container flex flex-col items-center">
+    <main class="container flex flex-col items-center col-start-2">
         <slot />
     </main>
     <Footer />

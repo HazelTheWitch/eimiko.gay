@@ -6,7 +6,6 @@
     }
 </script>
 
-<div class="flex flex-row justify-between my-4 mx-8 text-4xl self-stretch">
-    <a class="font-bold underline" href="/">eimiko.gay</a>
-    <button on:click={copy_url} title="copy permalink"><Link /></button>
-</div>
+<a class="font-bold underline my-4 mx-8 text-4xl" href="/">eimiko.gay</a>
+<div class="my-4 mx-8 text-4xl justify-self-center">🦊🍡</div>
+<button on:click={copy_url} title="copy permalink" class="my-4 mx-8 text-4xl justify-self-end"><Link /></button>
