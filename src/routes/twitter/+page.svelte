@@ -5,6 +5,7 @@
 </script>
 
 <h1 class="text-3xl">eimiko on twitter.com</h1>
+<p class="text-2xl underline">a lot of content here is nsfw or suggestive be warned</p>
 <div class="w-full">
     <div class="self-start m-8">
         <h2 class="text-2xl">hashtags</h2>
