@@ -1,7 +1,6 @@
 <script lang="ts">
 	import Handle from "$lib/Handle.svelte";
 	import Hashtag from "$lib/Hashtag.svelte";
-	import Link from "$lib/Link.svelte";
 </script>
 
 <h1 class="text-3xl">eimiko on twitter.com</h1>
